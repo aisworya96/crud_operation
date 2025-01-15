@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3088d3f9-3613-4208-a00d-0c5181dde767" name="Changes" comment="Second commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_crud/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask_crud/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
