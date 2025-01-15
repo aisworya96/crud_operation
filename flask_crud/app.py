@@ -10,6 +10,11 @@ def hello_world():
     return 'Hello World!'
 
 
+@app.route('/items', methods=['GET'])
+def get_items():
+    return jsonify(items), 200
+
+
 @app.route('/items', methods = ['POST'])
 def create_item():
     data = request.get_json()
